@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://etisiten.github.io/sitemap.html.gz
+Sitemap: https://etisiten.github.io/app/sitemap.html.gz
+Sitemap: https://etisiten.github.io/assets/sitemap.html.gz
+Sitemap: https://etisiten.github.io/css/sitemap.html.gz
+Sitemap: https://etisiten.github.io/includes/sitemap.html.gz
+Sitemap: https://etisiten.github.io/item/sitemap.html.gz
+Sitemap: https://etisiten.github.io/src/sitemap.html.gz
